@@ -1,0 +1,21 @@
+{
+  "name": "nightmarejs-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlareg/nightmarejs-examples.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/tlareg/nightmarejs-examples/issues"
+  },
+  "homepage": "https://github.com/tlareg/nightmarejs-examples#readme",
+  "dependencies": {
+    "nightmare": "^2.5.3"
+  }
+}
